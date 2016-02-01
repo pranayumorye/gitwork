@@ -2,6 +2,6 @@
 
 int main()
 {
-printf("Hello, worldliness!");
+printf("WINTER IS COMING");
 return 0;
 }
